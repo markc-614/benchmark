@@ -1,0 +1,30 @@
+torchbenchmark/__init__.py
+  s_d9d3458b3b2408::t_43d541646da67c 399-402
+torchbenchmark/util/env_check.py
+  s_d9d3458b3b2408::t_c46a61b95fc45d 153
+  h_57c29b2e2cbbb2 149-152,154-156,325,344
+  s_d9d3458b3b2408::t_412e3b720f9346 250-254
+torchbenchmark/util/experiment/metrics.py
+  s_d9d3458b3b2408::t_0fbaea14ec8d97 37-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "af779af8a80d0f2a280641be8604b781528c8535",
+  "prompts": {},
+  "humans": {
+    "h_57c29b2e2cbbb2": {
+      "author": "mashaobin <mashaobin@cambricon.com>"
+    }
+  },
+  "sessions": {
+    "s_d9d3458b3b2408": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c1a74cda-21bd-4ca5-808e-a1d27ec0429e",
+        "model": "glm-5.3"
+      },
+      "human_author": "mashaobin <mashaobin@cambricon.com>"
+    }
+  }
+}
